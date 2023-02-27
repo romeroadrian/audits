@@ -22,4 +22,5 @@ A collection of my personal security audits.
 ## Sherlock
 
 - [Buffer](./sherlock/2022-11-buffer/README.md)
+- [Nouns DAO](./sherlock/2022-11-nounsdao/README.md)
 - [Opyn Crab Netting](./sherlock/2022-11-opyn/README.md)
