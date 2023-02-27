@@ -18,3 +18,7 @@ A collection of my personal security audits.
 - [The Graph L2 bridge](./code4rena/2022-10-thegraph/README.md)
 - [Paladin - Warden Pledges](./code4rena/2022-10-paladin/README.md)
 - [VTVL](./code4rena/2022-09-vtvl/README.md)
+
+## Sherlock
+
+- [Buffer](./sherlock/2022-11-buffer/README.md)
