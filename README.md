@@ -6,6 +6,7 @@ A collection of my personal security audits.
 
 - [Debt DAO](./code4rena/2022-11-debtdao/README.md)
 - [Non Fungible Trading (Blur)](./code4rena/2022-11-non-fungible/README.md)
+- [Redacted Cartel](./code4rena/2022-11-redactedcartel/README.md)
 - [Holograph](./code4rena/2022-10-holograph/README.md)
 - [Inverse Finance](./code4rena/2022-10-inverse/README.md)
 - [Blur Exchange](./code4rena/2022-10-blur/README.md)
