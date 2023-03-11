@@ -4,6 +4,7 @@ A collection of my personal security audits.
 
 ## Code4rena
 
+- [Timeswap](./code4rena/2023-01-timeswap/README.md)
 - [Ondo Finance](./code4rena/2023-01-ondo/README.md)
 - [Biconomy](./code4rena/2023-01-biconomy/README.md)
 - [Escher](./code4rena/2022-12-escher/README.md)
