@@ -8,6 +8,7 @@ A collection of my personal security audits.
 - [Ondo Finance](./code4rena/2023-01-ondo/README.md)
 - [Biconomy](./code4rena/2023-01-biconomy/README.md)
 - [Escher](./code4rena/2022-12-escher/README.md)
+- [GoGoPool](./code4rena/2022-12-gogopool/README.md)
 - [Caviar](./code4rena/2022-12-caviar/README.md)
 - [prePO](./code4rena/2022-12-prepo/README.md)
 - [Forgeries](./code4rena/2022-12-forgeries/README.md)
