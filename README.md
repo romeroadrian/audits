@@ -4,6 +4,10 @@ A collection of my personal security audits.
 
 ## Code4rena
 
+- [Neo Tokyo](./code4rena/2023-03-neotokyo/README.md)
+- [Wenwin](./code4rena/2023-03-wenwin/README.md)
+- [RabbitHole Quest Protocol](./code4rena/2023-01-rabbithole/README.md)
+- [Canto Identity Protocol](./code4rena/2023-01-canto-identity/README.md)
 - [Timeswap](./code4rena/2023-01-timeswap/README.md)
 - [Ondo Finance](./code4rena/2023-01-ondo/README.md)
 - [Biconomy](./code4rena/2023-01-biconomy/README.md)
