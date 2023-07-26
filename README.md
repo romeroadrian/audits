@@ -2,8 +2,16 @@
 
 A collection of my personal security audits.
 
+## yAudit
+
+- [Yearn V3](https://reports.yaudit.dev/reports/06-2023-Yearn-v3/)
+
 ## Code4rena
 
+- [Party DAO](./code4rena/2023-05-party/README.md)
+- [Juicebox Buyback Delegate](./code4rena/2023-05-juicebox/README.md)
+- [Caviar](./code4rena/2023-04-caviar/README.md)
+- [Astaria](./code4rena/2023-01-astaria/README.md)
 - [Neo Tokyo](./code4rena/2023-03-neotokyo/README.md)
 - [Canto Identity Subprotocols](./code4rena/2023-03-canto-identity/README.md)
 - [Wenwin](./code4rena/2023-03-wenwin/README.md)
