@@ -8,6 +8,8 @@ A collection of my personal security audits.
 
 ## Code4rena
 
+- [Asymmetry Mitigation Review](./code4rena/2023-05-asymmetry-mitigation/README.md)
+- [Asymmetry](./code4rena/2023-03-asymmetry/README.md)
 - [Party DAO](./code4rena/2023-05-party/README.md)
 - [Juicebox Buyback Delegate](./code4rena/2023-05-juicebox/README.md)
 - [Caviar](./code4rena/2023-04-caviar/README.md)
