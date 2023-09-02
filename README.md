@@ -5,6 +5,8 @@ A collection of my personal security audits.
 ## yAudit
 
 - [Yearn V3](https://reports.yaudit.dev/reports/06-2023-Yearn-v3/)
+- [TempleDAO Lending](https://reports.yaudit.dev/reports/07-2023-TempleDAO-Lending/)
+- [TempleDAO Lending Recheck](https://reports.yaudit.dev/reports/08-2023-TempleDAO-Lending-Recheck/)
 
 ## Code4rena
 
