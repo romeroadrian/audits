@@ -10,6 +10,7 @@ A collection of my personal security audits.
 
 ## Code4rena
 
+- [Ondo](./code4rena/2023-09-ondo/README.md)
 - [Ambire](./code4rena/2023-05-ambire/README.md) - [Mitigation Review](./code4rena/2023-06-ambire-mitigation/README.md)
 - [xETH](./code4rena/2023-05-xeth/README.md)
 - [Particle Protocol](./code4rena/2023-05-particle/README.md)
