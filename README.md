@@ -45,6 +45,10 @@ A collection of my personal security audits.
 - [Paladin - Warden Pledges](./code4rena/2022-10-paladin/README.md)
 - [VTVL](./code4rena/2022-09-vtvl/README.md)
 
+## CodeHawks
+
+- [Sparkn](./codehawks/2023-08-sparkn/README.md) in collab with [magnetto](https://twitter.com/magnetto90)
+
 ## Sherlock
 
 - [Buffer](./sherlock/2022-11-buffer/README.md)
