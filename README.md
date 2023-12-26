@@ -14,6 +14,7 @@ A collection of my personal security audits.
 - [Kelp DAO](./code4rena/2023-11-kelp/README.md)
 - [Canto asD and 1155tech](./code4rena/2023-11-canto/README.md)
 - [Canto Liquidity Mining Protocol](./code4rena/2023-10-canto/README.md)
+- [ENS](./code4rena/2023-10-ens/README.md)
 - [Ondo](./code4rena/2023-09-ondo/README.md)
 - [Ambire](./code4rena/2023-05-ambire/README.md) - [Mitigation Review](./code4rena/2023-06-ambire-mitigation/README.md)
 - [xETH](./code4rena/2023-05-xeth/README.md)
