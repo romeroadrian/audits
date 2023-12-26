@@ -11,6 +11,7 @@ A collection of my personal security audits.
 ## Code4rena
 
 - [Aragon Protocol](./code4rena/2023-03-aragon/README.md)
+- [Kelp DAO](./code4rena/2023-11-kelp/README.md)
 - [Canto asD and 1155tech](./code4rena/2023-11-canto/README.md)
 - [Canto Liquidity Mining Protocol](./code4rena/2023-10-canto/README.md)
 - [Ondo](./code4rena/2023-09-ondo/README.md)
