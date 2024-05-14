@@ -2,11 +2,23 @@
 
 A collection of my personal security audits.
 
+## Solo audits
+
+- [Asymmetry afETH](./solo/2024-01-afeth/README.md)
+- [Asymmetry afCVX](./solo/2024-05-afcvx/README.md)
+
 ## yAudit
 
 - [Yearn V3](https://reports.yaudit.dev/reports/06-2023-Yearn-v3/)
 - [TempleDAO Lending](https://reports.yaudit.dev/reports/07-2023-TempleDAO-Lending/)
 - [TempleDAO Lending Recheck](https://reports.yaudit.dev/reports/08-2023-TempleDAO-Lending-Recheck/)
+- Curve two-crypto NG
+- Curve Stableswap NG
+- Inverse sDOLA
+- [Peapods](https://reports.yaudit.dev/reports/01-2024-Peapods/)
+- [Obelisk](https://reports.yaudit.dev/reports/02-2024-Obelisk/)
+- yPrisma
+- [Cove](https://github.com/Storm-Labs-Inc/cove-audits/blob/master/2024-03-30_yAudit_Boosties.pdf)
 
 ## Code4rena
 
