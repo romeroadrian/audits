@@ -10,9 +10,13 @@ A collection of my personal security audits.
 
 ## Code4rena
 
+- [Particle Leverage AMM](./code4rena/2023-12-particle/README.md)
+- [Asymmetry afETH](./code4rena/2023-09-asymmetry/README.md) - [Mitigation Review](./code4rena/2023-10-asymmetry-mitigation/README.md)
 - [Aragon Protocol](./code4rena/2023-03-aragon/README.md)
 - [Kelp DAO](./code4rena/2023-11-kelp/README.md)
 - [Canto asD and 1155tech](./code4rena/2023-11-canto/README.md)
+- [ZkSync](./code4rena/2023-10-zksync/README.md) in collab with [0xJuancito](https://twitter.com/0xJuancito)
+- [Party Protocol](./code4rena/2023-10-party-protocol/README.md)
 - [Canto Liquidity Mining Protocol](./code4rena/2023-10-canto/README.md)
 - [ENS](./code4rena/2023-10-ens/README.md)
 - [Ondo](./code4rena/2023-09-ondo/README.md)
