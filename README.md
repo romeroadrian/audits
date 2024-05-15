@@ -14,10 +14,10 @@ A collection of my personal security audits.
 - [TempleDAO Lending Recheck](https://reports.yaudit.dev/reports/08-2023-TempleDAO-Lending-Recheck/)
 - Curve two-crypto NG
 - Curve Stableswap NG
-- Inverse sDOLA
+- [Inverse sDOLA](https://reports.yaudit.dev/reports/01-2024-Inverse-sDOLA/)
 - [Peapods](https://reports.yaudit.dev/reports/01-2024-Peapods/)
 - [Obelisk](https://reports.yaudit.dev/reports/02-2024-Obelisk/)
-- yPrisma
+- [yPrisma YearnBoostedStaker](https://reports.yaudit.dev/reports/01-2024-yPrisma-Recheck/)
 - [Cove](https://github.com/Storm-Labs-Inc/cove-audits/blob/master/2024-03-30_yAudit_Boosties.pdf)
 
 ## Code4rena
