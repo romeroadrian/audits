@@ -18,7 +18,8 @@ A collection of my personal security audits.
 - [Peapods](https://reports.yaudit.dev/reports/01-2024-Peapods/)
 - [Obelisk](https://reports.yaudit.dev/reports/02-2024-Obelisk/)
 - [yPrisma YearnBoostedStaker](https://reports.yaudit.dev/reports/01-2024-yPrisma-Recheck/)
-- [Cove](https://github.com/Storm-Labs-Inc/cove-audits/blob/master/2024-03-30_yAudit_Boosties.pdf)
+- [Cove](https://reports.yaudit.dev/reports/03-2024-Cove/)
+- [Euler](https://reports.yaudit.dev/reports/03-2024-EulerV2/)
 
 ## Code4rena
 
