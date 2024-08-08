@@ -6,6 +6,8 @@ A collection of my personal security audits.
 
 - [Asymmetry afETH](./solo/2024-01-afeth/README.md)
 - [Asymmetry afCVX](./solo/2024-05-afcvx/README.md)
+- [Asymmetry afCVX Update](./solo/2024-06-afcvx/README.md)
+- [Asymmetry afLiquidLocker](./solo/2024-07-afliquidlocker/README.md)
 
 ## yAudit
 
