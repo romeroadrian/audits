@@ -22,6 +22,7 @@ A collection of my personal security audits.
 - [yPrisma YearnBoostedStaker](https://reports.yaudit.dev/reports/01-2024-yPrisma-Recheck/)
 - [Cove](https://reports.yaudit.dev/reports/03-2024-Cove/)
 - [Euler](https://reports.yaudit.dev/reports/03-2024-EulerV2/)
+- [Origami Oracles Adapters](https://reports.yaudit.dev/reports/06-2024-origami-oracles/)
 
 ## Code4rena
 
