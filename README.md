@@ -71,6 +71,8 @@ A collection of my personal security audits.
 
 ## CodeHawks
 
+- [Biconomy Nexus](./codehawks/2024-07-biconomy/README.md)
+- [TempleGold](./codehawks/2024-07-templegold/README.md)
 - [Sparkn](./codehawks/2023-08-sparkn/README.md) in collab with [magnetto](https://twitter.com/magnetto90)
 
 ## Sherlock
