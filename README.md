@@ -23,6 +23,7 @@ A collection of my personal security audits.
 - [Cove](https://reports.yaudit.dev/reports/03-2024-Cove/)
 - [Euler](https://reports.yaudit.dev/reports/03-2024-EulerV2/)
 - [Origami Oracles Adapters](https://reports.yaudit.dev/reports/06-2024-origami-oracles/)
+- [Flower](https://reports.yaudit.dev/reports/10-2024-Flower/)
 
 ## Code4rena
 
