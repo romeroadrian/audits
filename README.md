@@ -23,10 +23,15 @@ A collection of my personal security audits.
 - [Cove](https://reports.yaudit.dev/reports/03-2024-Cove/)
 - [Euler](https://reports.yaudit.dev/reports/03-2024-EulerV2/)
 - [Origami Oracles Adapters](https://reports.yaudit.dev/reports/06-2024-origami-oracles/)
-- [Flower](https://reports.yaudit.dev/reports/10-2024-Flower/)
+- Ramses V3
+- [Euler Yield Aggregator](https://reports.electisec.tech/reports/08-2024-Euler-Yield-Aggregator)
+- [Flower](https://reports.electisec.tech/reports/10-2024-Flower)
+- [Napier V2](https://reports.electisec.tech/reports/11-2024-napier)
+- [SOFA](https://reports.electisec.tech/reports/01-2025-Sofa-Protocol)
 
 ## Code4rena
 
+- [Chainlink Payment Abstraction](https://code4rena.com/audits/2024-12-chainlink-payment-abstraction) - Placed 1st position; findings are private
 - [Particle Leverage AMM](./code4rena/2023-12-particle/README.md)
 - [Asymmetry afETH](./code4rena/2023-09-asymmetry/README.md) - [Mitigation Review](./code4rena/2023-10-asymmetry-mitigation/README.md)
 - [Aragon Protocol](./code4rena/2023-03-aragon/README.md)
@@ -37,6 +42,7 @@ A collection of my personal security audits.
 - [Canto Liquidity Mining Protocol](./code4rena/2023-10-canto/README.md)
 - [ENS](./code4rena/2023-10-ens/README.md)
 - [Ondo](./code4rena/2023-09-ondo/README.md)
+- [Chainlink Staking v0.2](https://code4rena.com/audits/2023-08-chainlink-staking-v02)
 - [Ambire](./code4rena/2023-05-ambire/README.md) - [Mitigation Review](./code4rena/2023-06-ambire-mitigation/README.md)
 - [xETH](./code4rena/2023-05-xeth/README.md)
 - [Particle Protocol](./code4rena/2023-05-particle/README.md)
