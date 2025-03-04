@@ -9,7 +9,7 @@ A collection of my personal security audits.
 - [Asymmetry afCVX Update](./solo/2024-06-afcvx/README.md)
 - [Asymmetry afLiquidLocker](./solo/2024-07-afliquidlocker/README.md)
 
-## yAudit
+## yAudit / Electisec
 
 - [Yearn V3](https://reports.yaudit.dev/reports/06-2023-Yearn-v3/)
 - [TempleDAO Lending](https://reports.yaudit.dev/reports/07-2023-TempleDAO-Lending/)
