@@ -28,6 +28,7 @@ A collection of my personal security audits.
 - [Flower](https://reports.electisec.tech/reports/10-2024-Flower)
 - [Napier V2](https://reports.electisec.tech/reports/11-2024-napier)
 - [SOFA](https://reports.electisec.tech/reports/01-2025-Sofa-Protocol)
+- [Resupply Finance](https://reports.electisec.tech/reports/12-2024-ResupplyFinance)
 
 ## Code4rena
 
