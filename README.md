@@ -29,6 +29,8 @@ A collection of my personal security audits.
 - [Napier V2](https://reports.electisec.tech/reports/11-2024-napier)
 - [SOFA](https://reports.electisec.tech/reports/01-2025-Sofa-Protocol)
 - [Resupply Finance](https://reports.electisec.tech/reports/12-2024-ResupplyFinance)
+- [Ooga Booga](https://reports.electisec.tech/reports/04-2025-Ooga-Booga)
+- [Asymmetry dASF](https://reports.electisec.tech/reports/04-2025-Asymmetry-dASF)
 
 ## Code4rena
 
