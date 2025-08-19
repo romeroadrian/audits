@@ -11,26 +11,40 @@ A collection of my personal security audits.
 
 ## yAudit / Electisec
 
-- [Yearn V3](https://reports.yaudit.dev/reports/06-2023-Yearn-v3/)
-- [TempleDAO Lending](https://reports.yaudit.dev/reports/07-2023-TempleDAO-Lending/)
-- [TempleDAO Lending Recheck](https://reports.yaudit.dev/reports/08-2023-TempleDAO-Lending-Recheck/)
+- [Yearn V3](https://reports.electisec.com/2023-06-Yearn-v3/)
+- [TempleDAO Lending](https://reports.electisec.com/2023-07-TempleDAO-Lending/)
+- [TempleDAO Lending Recheck](https://reports.electisec.com/2023-08-TempleDAO-Lending-Recheck/)
 - Curve two-crypto NG
 - Curve Stableswap NG
-- [Inverse sDOLA](https://reports.yaudit.dev/reports/01-2024-Inverse-sDOLA/)
-- [Peapods](https://reports.yaudit.dev/reports/01-2024-Peapods/)
-- [Obelisk](https://reports.yaudit.dev/reports/02-2024-Obelisk/)
-- [yPrisma YearnBoostedStaker](https://reports.yaudit.dev/reports/01-2024-yPrisma-Recheck/)
-- [Cove](https://reports.yaudit.dev/reports/03-2024-Cove/)
-- [Euler](https://reports.yaudit.dev/reports/03-2024-EulerV2/)
-- [Origami Oracles Adapters](https://reports.yaudit.dev/reports/06-2024-origami-oracles/)
+- [Inverse sDOLA](https://reports.electisec.com/2024-01-Inverse-sDOLA/)
+- [Peapods](https://reports.electisec.com/2024-01-Peapods-yAudit-Report)
+- [Obelisk](https://reports.electisec.com/2024-02-Obelisk/)
+- [yPrisma YearnBoostedStaker](https://reports.electisec.com/2024-01-yPrisma-Recheck/)
+- [Cove](https://reports.electisec.com/2024-03-Cove/)
+- [Euler](https://reports.electisec.com/2024-03-EulerV2/)
+- [Origami Oracles Adapters](https://reports.electisec.com/2024-06-Origami-Oracles-Adapters-yAudit-Report)
 - Ramses V3
-- [Euler Yield Aggregator](https://reports.electisec.tech/reports/08-2024-Euler-Yield-Aggregator)
-- [Flower](https://reports.electisec.tech/reports/10-2024-Flower)
-- [Napier V2](https://reports.electisec.tech/reports/11-2024-napier)
-- [SOFA](https://reports.electisec.tech/reports/01-2025-Sofa-Protocol)
-- [Resupply Finance](https://reports.electisec.tech/reports/12-2024-ResupplyFinance)
-- [Ooga Booga](https://reports.electisec.tech/reports/04-2025-Ooga-Booga)
-- [Asymmetry dASF](https://reports.electisec.tech/reports/04-2025-Asymmetry-dASF)
+- [Euler Yield Aggregator](https://reports.electisec.com/2024-08-Euler-Yield-Aggregator)
+- [Flower](https://reports.electisec.com/2024-10-Flower)
+- [Napier V2](https://reports.electisec.com/2024-11-napier)
+- [SOFA](https://reports.electisec.com/2025-01-Sofa-Protocol)
+- [Resupply Finance](https://reports.electisec.com/2024-12-ResupplyFinance)
+- [Electisec USA.d](https://reports.electisec.com/2025-01-Asymmetry-USA-d)
+- [Olympus Cooler V2](https://reports.electisec.com/2025-02-Olympus-CoolerV2)
+- [Origami hOHM](https://reports.electisec.com/2025-02-Origami-hOHM)
+- [Olympus Cooler Migrator and Composite](https://reports.electisec.com/2025-03-Olympus-Cooler-Migrator-Composite)
+- [Origami hOHM Migrator](https://reports.electisec.com/2025-03-Origami-hOHM-Migrator)
+- [Ooga Booga](https://reports.electisec.com/2025-04-Ooga-Booga)
+- [Twyne](https://reports.electisec.com/2025-04-Twyne)
+- [Asymmetry dASF](https://reports.electisec.com/2025-04-Asymmetry-dASF)
+- [Pessimistic Velodrome LP Oracle](https://reports.electisec.com/2025-05-HAI-Oracle)
+- [Asymmetry USDaf V2](https://reports.electisec.com/2025-05-Asymmetry-USDaf-V2)
+- [Yield Basis](https://reports.electisec.com/2025-06-YieldBasis)
+- [Centrifuge](https://reports.electisec.com/2025-07-centrifuge)
+
+## Pashov Audit Group
+
+- [Blueberry](https://github.com/pashov/audits/blob/master/team/pdf/Blueberry-security-review_2025-03-26.pdf)
 
 ## Code4rena
 
